@@ -1,3 +1,8 @@
+-=(QBert_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+___
 ![QBert Character](./qbert.png) MiSTer Q*Bert
 =============================================
 
